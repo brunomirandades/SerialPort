@@ -1,6 +1,6 @@
 ## Serial Port C# application
 
-This is an example app coded in order to understand the library and platform support of serial connections in the .NET enviroment to be used in latter projects.
+This is an example app coded in order to understand the library and platform support of serial connections in the .NET environment to be used in latter projects.
 
 The app presents the basic parameters for serial connections as well a text field for command inputs:
 
